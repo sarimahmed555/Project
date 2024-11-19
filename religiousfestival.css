@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
+
+   
+#Toggle{
+   background-color: #DDDDDD;
+   box-shadow:
+   0 0 7px #fff,
+   0 0 10px #fff,
+   0 0 21px #fff,
+   0 0 42px #fff,
+   0 0 82px #fff,
+   0 0 92px #fff,
+   0 0 102px #fff,
+   0 0 151px rgb(255, 255, 255);
+  } 
+   .card {
+    margin-top: 45px;
+  margin-left: 25px;
+  margin-right: 25px;
+   }
+   .card-img{
+    height: 700px;
+   }
+   .crd1 p{
+    margin-top: 25px;
+font-size: 20px;
+   }
+   .crd1 h5{
+    font-weight: bolder;
+    font-size: 30px;
+   }
+.crd1 img{
+    height: 350px;
+}
+   .crd2 p{
+    margin-top: 25px;
+font-size: 20px;
+   }
+   .crd2 h5{
+    font-weight: bolder;
+    font-size: 30px;
+   }
+   .crd2 img{
+    height: 350px;
+   }
+   .crd3 p{
+    margin-top: 25px;
+font-size: 20px;
+   }
+   .crd3 h5{
+    font-weight: bolder;
+    font-size: 30px;
+   }
+.crd3 img{
+    height: 350px;
+    width: 250px;
+}
+   .crd4 p{
+    margin-top: 25px;
+font-size: 18px;
+   }
+   .crd4 h5{
+    font-weight: bolder;
+    font-size: 30px;
+   }
+   .crd4 img{
+    height: 350px;
+   }
+
+   .east p{
+font-size: 20px;
+      margin-top: 25px;
+   }
+
+.east h5{
+   font-size: 25px;
+   font-weight: bolder;
+}
+.easto img{
+height: 867px;
+}
+
+h1{
+ 
+   text-align: center;
+   font-family: 'Teko', sans-serif;
+   color: aliceblue;
+}
+.accordion-body{
+   color: white;
+   background-color: black;
+
+}
+
+.summary{
+   font-size: 35px;
+   color: azure;
+   font-family: 'Croissant One', cursive;
+
+}
